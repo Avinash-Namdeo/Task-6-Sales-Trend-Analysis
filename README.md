@@ -3,7 +3,7 @@
 This SQL script analyzes online sales performance using transaction-level data.
 
 🔍 Key Operations
-Reads from a sales dataset containing fields like Order Date, Region, Sales Channel, Product, and Total Revenue.
+Reads from a sales dataset containing fields like Order Date, Region, Product_Category, and Total Revenue.
 
 Aggregates total revenue grouped by:
 
